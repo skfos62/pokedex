@@ -1,0 +1,1 @@
+(()=>{"use strict";alert("ts 테스트")})();
